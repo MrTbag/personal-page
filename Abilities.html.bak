@@ -1,0 +1,31 @@
+<html dir = "rtl" lang = "fa-IR">
+
+<head>
+	<meta charset=“UTF-8”>
+	<title>
+		 مهارت و توانمندی ها
+	</title>
+	<link rel="stylesheet" type="text/CSS" href="Abilities.css" />
+</head>
+<body>
+	<ul>
+		<li><a href="Intro.html">معرفی</a></li>
+		<li><a href="Abilities.html">مهارت و توانمندی ها</a></li>
+		<li><a href="Achievements.html">افتخارات و دستاوردها</a></li>
+		<li><a href="Contact.html">تماس با من</a></li>
+	</ul>
+	
+	<ol>
+		<li>بسکتبال بازی کردن در سطح نیمه حرفه ای</li><br>
+		<li>صحبت کردن به زبان انگلیسی به صورت روان</li><br>
+		<li>برنامه نویسی با زبان های C, C++, Python, Java, Javascript</li><br>
+		<li>استفاده در حد مبتدی از html و Css</li><br>
+	</ol>
+	<footer>
+	  <a href="https://github.com/MrTbag">صفحه github من</a><br>
+	  <a href="https://stackoverflow.com/users/17469388/mrtbag">صفحه stackoverflow من</a><br>
+	  <a href="mailto:mahdiakbr81@gmail.com">ایمیل به من</a>
+	</footer>
+</body>
+	
+</html>

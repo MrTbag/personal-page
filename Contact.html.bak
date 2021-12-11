@@ -1,0 +1,40 @@
+<html dir = "rtl" lang = "fa-IR">
+
+<head>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+	<meta charset=“UTF-8”>
+	<title>
+		 تماس با من
+	</title>
+	<link rel="stylesheet" type="text/CSS" href="Contact.CSS" />
+	<script src="Confirm.js"></script>
+</head>
+<body>
+	<ul>
+		<li><a href="Intro.html">معرفی</a></li>
+		<li><a href="Abilities.html">مهارت و توانمندی ها</a></li>
+		<li><a href="Achievements.html">افتخارات و دستاوردها</a></li>
+		<li><a href="Contact.html">تماس با من</a></li>
+	</ul>
+	<p>
+		<b>برای تماس لطفا اطلاعات زیر را وارد کنید:</b>
+	</p>
+	<form action="/action_page.php">
+		<label for="name">نام و نام خانوادگی:</label><br>
+		<input type="text" id="name" name="name"><br>
+		<label for="email">ایمیل خود را وارد کنید:</label><br>
+		<input type="email" id="email" name="email"><br>
+		<label for="message">متن پیام</label><br>
+		<input type="text" id="message" name="message"><br><br>
+		<div>
+			<button onclick='conf()' type = "button"> submit </button>
+		</div>
+	</form> 
+	<footer>
+	  <a href="https://github.com/MrTbag">صفحه github من</a><br>
+	  <a href="https://stackoverflow.com/users/17469388/mrtbag">صفحه stackoverflow من</a><br>
+	  <a href="mailto:mahdiakbr81@gmail.com">ایمیل به من</a>
+	</footer>
+</body>
+	
+</html>
